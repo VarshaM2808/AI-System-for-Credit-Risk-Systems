@@ -76,11 +76,6 @@ This project focuses on **false negatives**, which represent unfair denial of op
 - Identified which groups experienced higher unfair rejection  
 - Demonstrated how accuracy alone can hide real-world harm  
 
-### 5️. Explainable AI (SHAP)
-- Identified globally important features  
-- Generated individual-level explanations for rejected applicants  
-- Compared explanation patterns across demographic groups  
-
 ---
 
 ##  Key Findings

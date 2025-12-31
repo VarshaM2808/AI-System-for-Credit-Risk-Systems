@@ -27,6 +27,7 @@ Instead of optimizing accuracy alone, this project evaluates **who pays the pric
 ##  Dataset
 
 **German Credit Risk Dataset**
+https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data
 
 - Source: UCI Machine Learning Repository  
 - Records: 1,000 loan applicants  

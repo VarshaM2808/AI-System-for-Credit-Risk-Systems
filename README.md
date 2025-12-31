@@ -105,7 +105,6 @@ Based on findings, this project recommends:
 - **Python**
 - **Pandas & NumPy** — data processing
 - **Scikit-learn** — modeling & evaluation
-- **SHAP** — explainable AI
 - **Matplotlib & Seaborn** — visualization
 - **VS Code**
 

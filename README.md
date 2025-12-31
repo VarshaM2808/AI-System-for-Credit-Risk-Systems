@@ -107,7 +107,7 @@ Based on findings, this project recommends:
 - **Scikit-learn** — modeling & evaluation
 - **SHAP** — explainable AI
 - **Matplotlib & Seaborn** — visualization
-- **VS Code / Jupyter Notebook**
+- **VS Code**
 
 ---
 

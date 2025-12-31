@@ -88,7 +88,7 @@ This project focuses on **false negatives**, which represent unfair denial of op
 ---
 
 
-##  Human-in-the-Loop Recommendation
+##  Recommendation
 
 Based on findings, this project recommends:
 
